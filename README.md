@@ -4,8 +4,11 @@ Remove as much of the bloatware from a fresh Windows install.
 Currently removes the following:
 
 "Microsoft.WindowsStore"
+
 "Microsoft.WindowsCamera"
+
 "Microsoft.WindowsAlarms"
+
 "Microsoft.SkypeApp"
 "Microsoft.ZuneVideo"
 "Microsoft.ZuneMusic"
