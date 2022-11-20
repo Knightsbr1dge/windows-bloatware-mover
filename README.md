@@ -3,7 +3,7 @@ Remove as much of the bloatware from a fresh Windows install.
 
 Currently removes the following:
 
-"Microsoft.WindowsStore"
+"Microsoft.WindowsStore" 
 "Microsoft.WindowsCamera"
 "Microsoft.WindowsAlarms"
 "Microsoft.SkypeApp"
